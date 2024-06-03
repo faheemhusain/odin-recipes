@@ -1,0 +1,23 @@
+* {
+    font-family: Cursive, sans-serif;
+    background-color: rgb(238, 170, 145);
+}
+
+h1 {
+    color: rgb(30, 136, 139);
+    background-color: rgb(97, 16, 16);
+    text-align: center;
+}
+
+h2 {
+    color: aliceblue;
+    background-color: coral;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    margin: auto;
+    display: block;
+  }
+
